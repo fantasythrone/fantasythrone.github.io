@@ -909,6 +909,10 @@ body {
   font-family: "Raleway";
   font-weight: 400;
   color: #7f7e7e;
+  background-color: rgb(15, 26, 36);
+}
+body.preloader {
+  background-color: #fff;
 }
 body.no-scroll {
   overflow: hidden;
